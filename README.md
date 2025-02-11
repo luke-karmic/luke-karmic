@@ -26,7 +26,11 @@
 
 ###
 
-<p align="left">I'm Luke from UK<br><br>- 📚 I'm currently learning GoLang<br>- ⚡ In my free time I travel, most recently South East Asia (Thailand, Vietnam, Sri Lanka)</p>
+<p align="left">I'm Luke from UK<br><br>- 📚 I'm currently learning GoLang
+  <br>- ⚡ I have 9 years of industry experience as a BE/Full-stack/Lead
+  <br>- ⚡ I am very knowledgeable in Trading/Finance/Crypto which is my passion
+  <br>- ⚡ In my free time I travel, most recently South East Asia (Thailand, Vietnam, Sri Lanka)
+</p>
 
 ###
 
