@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Luke from UK<br><br>- 📚 I'm currently learning GoLang<br>- ⚡ In my free time I Travel, most recently South East Asia (Thailand, Vietnam, Sri Lanka)</p>
+<p align="left">I'm Luke from UK<br><br>- 📚 I'm currently learning GoLang<br>- ⚡ In my free time I travel, most recently South East Asia (Thailand, Vietnam, Sri Lanka)</p>
 
 ###
 
@@ -86,13 +86,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
 </div>
 
-###
-
-<div align="center">
-</div>
-
-###
-
-<h3 align="left"></h3>
-
-###
