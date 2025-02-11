@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Luke from UK<br><br>- 📚 I'm currently learning GoLang
+<p align="left">I'm Luke originally from London, UK. Working from EU (AMS) or anywhere necessary!<br><br>- 📚 I'm currently learning GoLang
   <br>- ⚡ I'm a software engineer, with 9+ years of experience as a BE/Full-stack/Lead
   <br>- ⚡ I am very knowledgeable in Trading/Finance/Crypto which is my passion
   <br>- ⚡ In my free time I travel, most recently South East Asia (Thailand, Vietnam, Sri Lanka)
